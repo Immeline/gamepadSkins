@@ -1,5 +1,5 @@
 .controller.custom {
-    background: url(liz/baseLiz.svg);
+    background: url(https://raw.githubusercontent.com/Immeline/gamepadSkins/master/liz/baseLiz.svg);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -24,7 +24,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(liz/triggersLiz.svg);
+    background: url(https://raw.githubusercontent.com/Immeline/gamepadSkins/master/liz/triggersLiz.svg);
     opacity: 0;
 }
 
@@ -40,7 +40,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(liz/bumperLiz.svg) no-repeat;
+    background: url(https://raw.githubusercontent.com/Immeline/gamepadSkins/master/liz/bumperLiz.svg) no-repeat;
     opacity: 0;
 }
 
@@ -76,7 +76,7 @@
 }
 
 .custom .touchpad.pressed {
-    background: url(liz/touchpadLiz.svg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/Immeline/gamepadSkins/master/liz/touchpadLiz.svg) no-repeat center;
 }
 
 .custom .meta {
@@ -88,7 +88,7 @@
 }
 
 .custom .meta.pressed {
-    background: url(liz/metaLiz.svg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/Immeline/gamepadSkins/master/liz/metaLiz.svg) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -121,7 +121,7 @@ background-position: 0 -70px;
 }
 
 .custom .back, .custom .start {
-    background: url(liz/startLiz.svg);
+    background: url(https://raw.githubusercontent.com/Immeline/gamepadSkins/master/liz/startLiz.svg);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -156,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(liz/faceLiz.svg);
+    background: url(https://raw.githubusercontent.com/Immeline/gamepadSkins/master/liz/faceLiz.svg);
 }
 
 .custom .button.pressed {
@@ -196,7 +196,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(liz/sticksLiz.svg);
+    background: url(https://raw.githubusercontent.com/Immeline/gamepadSkins/master/liz/sticksLiz.svg);
     height: 94px;
     width: 94px;
 }
@@ -228,7 +228,7 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    background: url(liz/dpadLiz.svg);
+    background: url(https://raw.githubusercontent.com/Immeline/gamepadSkins/master/liz/dpadLiz.svg);
     position: absolute;
 }
 
