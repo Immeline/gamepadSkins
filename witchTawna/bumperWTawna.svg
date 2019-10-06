@@ -37,7 +37,7 @@
    id="namedview3030"
    showgrid="false"
    inkscape:zoom="2.8715874"
-   inkscape:cx="-63.727818"
+   inkscape:cx="-120.31673"
    inkscape:cy="11.2"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
@@ -59,12 +59,12 @@
    class="st0"
    d="M-910,545.1c0-0.8,0.4-1.5,1.1-1.9c4.5-2.9,23.4-13.6,51.5-13.6c26.9,0,41.1,5.9,45.1,8     c0.8,0.4,1.2,1.2,1.2,2c0,0-9.8-2.9-47.5-2.9C-896.4,536.7-910,545.1-910,545.1z"
    id="path3019"
-   style="fill:#ff5800;fill-opacity:1" />
+   style="fill:#e01b00;fill-opacity:1" />
 			<path
    class="st1"
    d="M-910,552L-910,552l0-6.9c0,0,13.7-8.4,51.4-8.4c37.8,0,47.5,2.9,47.5,2.9v11l0,0     c-7.7-1.3-21.2-2.6-44.1-2.6C-883.7,548-901.1,550.3-910,552z"
    id="path3021"
-   style="fill:#ec5100;fill-opacity:1" />
+   style="fill:#971d0c;fill-opacity:1" />
 		</g>
 	</g>
 </g>
